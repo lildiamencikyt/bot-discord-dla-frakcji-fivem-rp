@@ -1,5 +1,5 @@
 Przeczytaj WAZNE!!!.txt w bot.rar
-
+(jeśli coś nie działa to nie wina bota to nie skonfigurownie)
 📘 Opis komend zarządu w bocie ⁠📱・tablet
 
 🔧 !tablet
